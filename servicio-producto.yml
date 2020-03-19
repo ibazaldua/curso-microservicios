@@ -2,3 +2,5 @@ constants:
   saludo: Hola desde servicio-producto
   url:
     usuario: http://usuarios/usuario
+  url:
+    usuarios: http://usuarios/usuarios
