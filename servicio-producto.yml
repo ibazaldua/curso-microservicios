@@ -3,3 +3,8 @@ constants:
   url:
     usuario: http://usuarios/usuario
     usuarios: http://usuarios/usuarios
+    
+eureka:
+ client:
+   service-url:
+     defaultZone: http://192.168.15.23:8761/eureka
