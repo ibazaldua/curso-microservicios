@@ -1,0 +1,22 @@
+spring:
+  application:
+    name: config-server
+#  profiles:
+#    active:
+#    - native
+    
+#  cloud:
+#    config:
+#      server:
+#        native:
+#          search-locations:
+#          - classpath:config/
+
+  cloud:
+    config:
+      server:
+        git:
+          uri: git://github.com/ibazaldua/curso-microservicios.git
+    
+server:
+  port: 8888

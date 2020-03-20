@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: zuul-gateway-resotor
+    
+  cloud:
+    config:
+      uri:
+      - http://localhost:8888
+server:
+  port: 80
