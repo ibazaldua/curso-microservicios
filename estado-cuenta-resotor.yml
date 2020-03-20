@@ -1,5 +1,5 @@
 constants:
   version: 2.0.0
   urlDebito: http://tarjeta-debito-resotor:8082/
-  urlCredito: http://tarjeta-credito-resotor:8082/
-  urlInversion: http://inversion-resotor:8082/
+  urlCredito: http://tarjeta-credito-resotor:8083/
+  urlInversion: http://inversion-resotor:8084/
