@@ -1,0 +1,6 @@
+constants:
+    nombre: tarjetas-debito-jcruzmz
+eureka:
+    client:
+      service-url:
+        defaultZone: http://192.168.15.23:8761/eureka
