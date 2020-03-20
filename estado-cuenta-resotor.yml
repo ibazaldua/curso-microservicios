@@ -1,6 +1,6 @@
 constants:
   version: 2.0.0
   url:
-    Debito: http://tarjeta-debito-resotor/consultaCuentas
-    Credito: http://tarjeta-credito-resotor/consultaCuentas
-    Inversion: http://inversion-resotor/consultaCuentas
+    Debito: http://tarjeta-debito-resotor/consultaCuentas/
+    Credito: http://tarjeta-credito-resotor/consultaCuentas/
+    Inversion: http://inversion-resotor/consultaCuentas/
