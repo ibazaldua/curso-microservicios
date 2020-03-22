@@ -7,4 +7,10 @@ spring:
       uri:
       - http://localhost:8888
 server:
-  port: 80
+  port: 9001
+
+zuul:
+  host:
+    socket-timeout-millis: 300000
+    
+hystrix.command.simple-client.execution.isolation.thread.timeoutInMilliseconds: 110000
