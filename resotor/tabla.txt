@@ -1,0 +1,50 @@
+01 MARIA DEL CARMEN CANTU DAVILA              57      20/03/1963 cathita_acosta@hotmail.com
+02 VIOLETA GRISSEL MORALES GONZALEZ           41      02/05/1979 ambrosio82@gmail.com
+03 LUIS HORACIO HERNANDEZ BANALES             45      06/03/1975 carolaasm@hotmail.com
+04 ANGELICA GRISSEL HERNANDEZ MORALES         19      27/08/2001 danycast98@hotmail.com
+05 LUIS HORACIO HERNANDEZ MORALES             17      25/08/2003 marjobio@hotmail.com
+06 ALMA DELIA GARCIA PEREZ                    45      19/12/1975 mldelgadillo.v@hotmail.com
+07 TANIA LIZETH HERNANDEZ GARCIA              24      26/10/1996 Lorena_firu@yahoo.es
+08 JULIAN FLORES MARTIN                       38      08/11/1982 mgajardo@utalca.cl
+09 LAURA EDITH VEGA RIOS                      38      07/07/1982 jgutierrezp@santotomas.cl
+10 JULIA EMMA FLORES VEGA                     10      20/02/2010 fdaherrera@hotmail.com
+11 JOSE GONZALO LOPEZ DE LA ROSA              53      05/01/1967 andrestoledo2004@yahoo.es
+12 ALMA DELIA MONTOYA LEAL                    50      12/06/1970 claudiohinojosa@hotmail.com
+13 JOSE GONZALO LOPEZ MONTOYA                 26      05/01/1994 emarin@upla.cl
+14 JESUS MARIA LOPEZ MONTOYA                  24      11/03/1996 rmerino@amqualitas.cl
+15 YADIRA ARELLANO SAN JUAN                   42      14/10/1978 neilorange2952@yahoo.com
+16 BRENDA NATALI MATA HERNANDEZ               33      29/08/1987 orregoldi@hotmail.com
+17 JOSUE SANCHEZ BARCENAS                     41      19/05/1979 Judith.rabuco@udelmar.cl
+18 CAYETANO TORRES GRAJALES                   36      09/04/1984 t_soto@dsvalpo.cl
+19 LIZETH SANABIA CARBALLO                    36      03/11/1984 rvaldes@udec.cl
+20 FRANCISCO MARQUEZ MOTA                     40      01/07/1980 hvargas@unab.cl
+21 LEDA ONEY ZARATE ORTEGA                    39      23/04/1981 carlos_verdugo@yahoo.es
+22 FRANCISCO MARQUEZ ZARATE                   10      11/11/2010 alejandrayanezpezoa@gmail.com
+23 DIANA ONEY MARQUEZ ZARATE                  16      10/06/2004 iabarcae@yahoo.es
+24 LUIS ALBERTO SALAZAR RODRIGUEZ             32      03/09/1988 maeillanes@hotmail.com
+25 ALEJANDRA MORALES RODRIGUEZ                28      27/02/1992 osabarca@hotmail.com
+26 DIEGO ALEXIS SALAZAR MORALES               10      10/11/2010 cabrigo@garmendia.cl
+27 JUAN CARLOS RODRIGUEZ RIVERA               41      28/09/1979 Sb.nashxo.sk8@hotmail.com
+28 HAYDEE ARCOS PERALTA                       40      28/09/1980 fran.afull@live.cl
+29 MARIA ALEJANDRA MEZA MEDRANO               49      04/12/1971 carlosaguileram@hotmail.com
+30 EUSEBIO DEL ANGEL HERNANDEZ                53      23/07/1967 ikis_rojo@hotmail.com
+31 MARTHA ESTEPHANIA DEL ANGEL MEZA           16      02/01/2004 daniela_aguilera_m500@hotmail.com
+32 CITLALY GERALDINE DEL ANGEL MEZA           18      23/07/2002 vizkala@hotmail.com
+33 EDDER ALEJANDRO DEL ANGEL MEZA             15      22/04/2005 alexus3@hotmail.com
+34 TURNER VLADIMIR VAZQUEZ VERGARA            32      17/08/1988 capitanaguilera@hotmail.com
+35 BLANCA LEZAMA HERNANDEZ                    38      22/09/1982 apalamosg@hotmail.com
+36 JORGE EDDIE ALONSO MATA                    59      03/05/1961 niikhox__@hotmail.com
+37 JUANITA RENTERIA ESPINOZA                  57      02/07/1963 luuuuuuci@hotmail.com
+38 RAUL HAZAEL ALONSO RENTERIA                21      03/12/1999 kristian_siempre_azul@hotmail.com
+39 BETSIE BERENICE ALONSO RENTERIA            31      24/08/1989 mapuchin@hotmail.com
+40 SONIA EDITH LOREDO MORENO                  40      14/04/1980 arahuetes@manquehue.net
+41 CARLOS ESTEBAN ZAMORA LOREDO               16      19/09/2004 eduardo.arancibia@grange.cl
+42 OSCAR LUIS MARTINEZ SOSA                   36      13/05/1984 martacam2002@yahoo.com
+43 ALONDRA YURIDIA CADENA RAMIREZ             37      12/07/1983 andrea.geoplanet@gmail.com
+44 RICARDO AXEL MARTINEZ CADENA               12      29/09/2008 faraya1910@hotmail.com
+45 OLIVER BARUC MARTINEZ CADENA               10      01/05/2010 faraya@sprint.cl
+46 DAYRA PAOLA MARTINEZ CADENA                 9      20/04/2011 leonor.araya@gmail.com
+47 MAURICIO GOMEZ TENORIO                     49      22/08/1971 paulifran@hotmail.com
+48 YOLANDA REYNA PORRAS                       49      07/04/1971 bad.girl.-@hotmail.es
+49 ANGEL SANTIAGO SANTOS                      34      24/12/1986 aargomedo@hecsa.cl
+50 NANCY AILLEN MAZA ABURTO                   26      14/09/1994 aargomedo@hecsa.cl
