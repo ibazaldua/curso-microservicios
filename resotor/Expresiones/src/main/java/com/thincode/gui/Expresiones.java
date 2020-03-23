@@ -31,7 +31,12 @@ public class Expresiones {
 			System.out.println("2. Consultar por Id");
 			System.out.println("3. Consultar todos");
 			System.out.println("4. Salir");
-			opc = scan.nextInt();
+			try {
+				opc = scan.nextInt();
+			}catch(Exception e) {
+				opc = 0;
+				scan.nextLine();
+			}
 			switch (opc) {
 			case 1:
 				tengoArchivo = servicio.cargaArchivo();

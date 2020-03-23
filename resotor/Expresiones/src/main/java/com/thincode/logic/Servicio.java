@@ -21,17 +21,14 @@ public class Servicio {
 	FileNameExtensionFilter filtro;
 	File archivo;
 	Map<Integer, Usuario> usuarios;
-	private Usuario put;
+
 
 	public Servicio() {
 		selectorArchivos = new JFileChooser();
-		selectorArchivos.setFileSelectionMode(JFileChooser.FILES_AND_DIRECTORIES);
+		selectorArchivos.setFileSelectionMode(JFileChooser.FILES_ONLY);
 		filtro = new FileNameExtensionFilter("Archivos txt", "txt");
 		selectorArchivos.setFileFilter(filtro);
 		usuarios = new HashMap<Integer, Usuario>();
-//		usuarios.put(1, new Usuario(1,"René Soto",26,new Date(23071993),"resotor@outlook.com"));
-//		usuarios.put(2, new Usuario(2,"Monserrat Zaragoza",24,new Date(8101993),"monserratzaragoza@outlook.com"));
-//		usuarios.put(3, new Usuario(1,"Cuau Garza",26,new Date(25031993),"resotor@outlook.com"));
 	}
 
 	public boolean cargaArchivo() {
@@ -40,7 +37,6 @@ public class Servicio {
 		FileReader fileReader;
 		BufferedReader buffer;
 		String linea;
-		StringBuffer salida;
 		String expresion = "(^[\\d]+)\\s*([[a-zA-z]+\\s]{3,})\\s*(\\d+)\\s*(\\d+.\\d+.\\d+)\\s*";
 		String correo = "([\\w\\-]+[\\.[\\w\\-]+]*\\@[A-Za-z0-9]+[\\.[A-Za-z0-9]+]*.[A-Za-z]{2,})";
 		try {
@@ -80,6 +76,6 @@ public class Servicio {
 	}
 
 	public List<Usuario> consultaUsuarios() {
-		return new ArrayList(this.usuarios.values());
+		return new ArrayList<Usuario>(this.usuarios.values());
 	}
 }
