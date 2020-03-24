@@ -1,0 +1,22 @@
+spring:
+  application:
+    name: estado-cuenta
+
+  cloud:
+    config:
+      uri: http://localhost:8888
+
+server:
+  port: 8081
+  
+feign:
+  hystrix:
+    enabled: 
+      true
+        
+management:
+  endpoints:
+    web:
+      exposure:
+        include:
+        - hystrix.stream
